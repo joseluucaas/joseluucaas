@@ -88,23 +88,3 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
  
-<br/>
-<br/>  
-
-### 📊 Estatísticas
-
-<p>
-<img
-align="left"
-alt="GitHub Stats"
-heigth="200"
-style="padding-right:10px"
-src="https://github-readme-stats.vercel.app/api?username=joseluucaas&show_icons=true&theme=tokyonight"
-/>
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluucaas&theme=tokyonight&layout-compact=compact&custom_title=Tecnologias&langs_count=9"
-/>
-</p>
