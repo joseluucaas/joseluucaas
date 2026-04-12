@@ -7,7 +7,15 @@ Olá! Eu me chamo José Lucas e atualmente estou em busca de me tornar um Desenv
 
 ### 🤖 Linguagens e tecnologias 
 
-
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>  
+ 
 <img 
 align="left"
 alt="CSS"
@@ -19,30 +27,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 
 <img 
 align="left"
+alt="JavaScript"
+title="JavaScript"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+align="left"
 alt="TypeScript"
 title="TypeScript"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
- /> 
- 
- <img
-align="left"
-alt="HTML"
-title="HTML"
-width="30px"
-style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
- />  
- 
-<img
-align="left"
-alt="Phyton"
-title="Phyton"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
- />  
+/> 
  
 <img 
 align="left"
@@ -51,17 +50,17 @@ title="Java"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+/> 
 
-<img 
+<img
 align="left"
-alt="Git"
-title="Git"
+alt="Phyton"
+title="Phyton"
 width="30px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>  
+ 
 <img 
 align="left"
 alt="MySQL"
@@ -77,17 +76,17 @@ alt="MongoDB"
 title="MongoDB"
 width="30px"
 style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
- /> 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/> 
  
 <img 
 align="left"
-alt="MongoDB"
-title="MongoDB"
+alt="Git"
+title="Git"
 width="30px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
- />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
  
 <br/>
 <br/>  
