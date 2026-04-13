@@ -1,12 +1,13 @@
-# José Lucas 👨🏻‍💻
+# José Lucas 👨🏻‍💻 
+
 **`Desenvolvedor Full Stack`**
 
 Olá! Eu me chamo José Lucas e atualmente estou em busca de me tornar um Desenvolvedor Full Stack, eu sou natrual do Acre e atualmente moro no interior do Amazonas. Estou em consante evolução nos meus estudos estudando pela Alura é tambem pelo YouTube no canal do Curso em vídeo.
 
----
+##
 
 ### 🤖 Linguagens e tecnologias 
-
+<div>
 <img
 align="left"
 alt="HTML"
@@ -87,10 +88,17 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+</div>
+
+<br>
+<br>
 
 ##
+
+<br>
+
 <div>
- <a href="https://www.linkedin.com/in/joseluucaas-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/joseluucaas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
 </div>
