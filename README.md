@@ -95,7 +95,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ##
 
 <div>
- 
+<a href="https://github.com/joseluucaas">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> 
 <a href="https://instagram.com/joseluucaas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joseluucaas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
