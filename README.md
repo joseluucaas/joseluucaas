@@ -71,9 +71,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
           
 <br>
 
-#
-
-### Backend
+### Back-end
 
 <img 
 align="left"
@@ -110,7 +108,12 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 /> 
- 
+
+<br>
+
+### DevOps & Tools
+
+
 <img 
 align="left"
 alt="Git"
@@ -126,7 +129,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ---
 
-## 
+
+#
 
 > _"Code is not just about solving problems.  
 > It's about building solutions that scale, last, and generate real value."_
