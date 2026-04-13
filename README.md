@@ -59,6 +59,16 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 /> 
 
+
+<img 
+align="left"
+alt="React"
+title="React"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+          
 <br>
 
 #
@@ -111,3 +121,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 />
 
 </div>
+
+<br>
+
+---
+
+## 
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
