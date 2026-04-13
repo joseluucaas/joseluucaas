@@ -4,11 +4,25 @@
 
 Olá! Eu me chamo José Lucas e atualmente estou em busca de me tornar um Desenvolvedor Full Stack, eu sou natrual do Acre e atualmente moro no interior do Amazonas. Estou em consante evolução nos meus estudos estudando pela Alura é tambem pelo YouTube no canal do Curso em vídeo.
 
-##
+---
+## 🌐 Onde me encontrar
+
+<div>
+<a href="https://github.com/joseluucaas">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> 
+<a href="https://instagram.com/joseluucaas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joseluucaas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+
+---
 
 ## 🤖 Linguagens e tecnologias 
 
+### Front-end
+
 <div>
+ 
 <img
 align="left"
 alt="HTML"
@@ -44,7 +58,13 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 /> 
- 
+
+<br>
+
+#
+
+### Backend
+
 <img 
 align="left"
 alt="Java"
@@ -89,7 +109,9 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <br>
+
 </div>
 
 ##
