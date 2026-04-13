@@ -131,8 +131,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ##
 
-## Texto Bíblico 
+## Matheus 19:26
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _".  
+> ."_
 
