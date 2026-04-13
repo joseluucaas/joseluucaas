@@ -133,4 +133,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ## Matheus 19:26
 
-"Para os homens é impossível, mas para Deus todas as coisas são possíveis." 
+> _"Para os homens é impossível, mas para Deus todas as coisas são possíveis."_
