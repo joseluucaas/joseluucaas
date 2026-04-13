@@ -17,7 +17,7 @@ Olá! Eu me chamo José Lucas e atualmente estou em busca de me tornar um Desenv
 
 ---
 
-## 🤖 Linguagens e tecnologias 
+## 🛠️ Linguagens e tecnologias 
 
 ### Front-end
 
