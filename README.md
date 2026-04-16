@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Olá! Eu me chamo José Lucas e atualmente estou em busca de me tornar um Desenvolvedor Full Stack, eu sou natrual do Acre e atualmente moro no interior do Amazonas. Estou em consante evolução nos meus estudos estudando pela Alura é tambem pelo YouTube no canal do Curso em vídeo.
+Hello! My name is José Lucas, and I am currently working towards becoming a Full Stack Developer. I am originally from Acre and currently live in the countryside of Amazonas. I am constantly improving my skills by studying through Alura and also on YouTube via the Curso em Vídeo channel.
 
 ---
 ## 🌐 Onde me encontrar
