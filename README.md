@@ -129,6 +129,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ---
 
-## Matheus 19:26
+## Matthew 19:26
 
 > _"With man this is impossible, but with God all things are possible.."_
