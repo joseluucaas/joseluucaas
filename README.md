@@ -17,7 +17,7 @@ Hello! My name is José Lucas, and I am currently working towards becoming a Ful
 
 ---
 
-## 🛠️ Linguagens e tecnologias 
+## 🛠️ Languages and Technologies
 
 ### Front-end
 
