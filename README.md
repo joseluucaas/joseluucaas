@@ -25,182 +25,23 @@
 
 <h3> Front-end </h3>
 
-<div dir="auto">
-  <table tabindex="0">
-    <tbody>
-      <tr>
-        <td align="center" width="96">
-          <a
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            href="https://techstack-generator.vercel.app/react-icon.svg">
-            <img
-              src="https://techstack-generator.vercel.app/react-icon.svg"
-              alt="React"
-              width="65"
-              height="65"
-              style="max-width: 100%; height: auto; max-height: 65px;"/>
-          </a>
-          <br/>
-          React
-        </td>
-        <td align="center" width="96">
-          <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://techstack-generator.vercel.app/ts-icon.svg"
-              alt="TypeScript"
-              width="65"
-              height="65"/>
-          </a>
-          <br/>
-          TypeScript
-          </td>
-                </td>
-        <td align="center" width="96">
-          <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://techstack-generator.vercel.app/js-icon.svg"
-              alt="JavaScript"
-              width="65"
-              height="65"/>
-          </a>
-          <br/>
-          JavaScript
-          </td>
-        <td align="center" width="96">
-          <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://skillicons.dev/icons?i=html"
-              alt="HTML5"
-              width="48"
-              height="48"/>
-          </a>
-          <br/>
-          HTML5
-        </td>
-        <td align="center" width="96">
-          <a
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            href="https://skillicons.dev/icons?i=css">
-            <img
-              src="https://skillicons.dev/icons?i=css"
-              width="48"
-              height="48"
-              alt="CSS"
-              style="max-width: 100%; height: auto; max-height: 48px;"/>
-          </a>
-          <br/>
-          CSS
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
+[![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
+[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
 
 <h3> Back-end </h3>
 
-
-<div dir="auto">
-  <table tabindex="0">
-    <tbody>
-      <tr>
-        <td align="center" width="96">
-          <a
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            href="https://techstack-generator.vercel.app/react-icon.svg">
-            <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-              alt="Node.js"
-              width="55"
-              height="55"
-              style="max-width: 100%; height: auto; max-height: 65px;"/>
-          </a>
-          <br/>
-          Node.JS
-        <td align="center" width="96">
-          <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://techstack-generator.vercel.app/mysql-icon.svg"
-              alt="MySQL"
-              width="65"
-              height="65"/>
-          </a>
-          <br/>
-         MySQL
-        </td>
-        <td align="center" width="96">
-          <a
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-            <img
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-              width="48"
-              height="48"
-              alt="MongoDB"
-              style="max-width: 100%; height: auto; max-height: 48px;"/>
-          </a>
-          <br/>
-          MongoDB
-      </tr>
-    </tbody>
-  </table>
-</div>
+[![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![EXPRESS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)]()
 
 
 <h3> DevOps & Tools </h3> 
 
-<div dir="auto">
-  <table tabindex="0">
-    <tbody>
-      <tr>          
-<td align="center" width="96">
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://skillicons.dev/icons?i=vscode">
-    <img
-      src="https://skillicons.dev/icons?i=vscode"
-      width="48"
-      height="48"
-      alt="VS Code"
-      style="max-width: 100%; height: auto; max-height: 48px;"/>
-  </a>
-  <br/>
-  VS Code
-  <td align="center" width="96">
-          <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://techstack-generator.vercel.app/github-icon.svg"
-              alt="GitHub"
-              width="65"
-              height="65"/>
-          </a>
-          <br/>
-          GitHub
-        </td>
-  <td align="center" width="96">
-          <a
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-            <img
-              src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-              width="48"
-              height="48"
-              alt="Git"
-              style="max-width: 100%; height: auto; max-height: 48px;"/>
-          </a>
-          <br/>
-          Git 
-      </tr>
-    </tbody>
-  </table>
-</div>
-
+[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
+[![DISCORD.JS](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white)]()
 
 <hr>
 
