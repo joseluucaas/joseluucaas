@@ -1,4 +1,4 @@
-<h1>👨🏻‍💻 José Lucas  </h1>
+<h1>👨🏻‍💻 José Lucas</h1>
 
 <code> Full-Stack Developer </code>
 
