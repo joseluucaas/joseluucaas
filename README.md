@@ -109,14 +109,14 @@
             rel="noopener noreferrer nofollow"
             href="https://techstack-generator.vercel.app/react-icon.svg">
             <img
-              src="https://techstack-generator.vercel.app/react-icon.svg"
-              alt="React"
-              width="65"
-              height="65"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+              alt="Node.js"
+              width="55"
+              height="55"
               style="max-width: 100%; height: auto; max-height: 65px;"/>
           </a>
           <br/>
-          React
+          Node.JS
         </td>
         <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
