@@ -23,7 +23,7 @@
 <h3> Front-end </h3>
 
 <div dir="auto">
-  <table align="center" tabindex="0">
+  <table tabindex="0">
     <tbody>
       <tr>
         <td align="center" width="96">
