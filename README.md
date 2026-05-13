@@ -33,7 +33,7 @@
             href="https://techstack-generator.vercel.app/react-icon.svg">
             <img
               src="https://techstack-generator.vercel.app/react-icon.svg"
-              alt="icon"
+              alt="React"
               width="65"
               height="65"
               style="max-width: 100%; height: auto; max-height: 65px;"/>
@@ -45,7 +45,7 @@
           <a target="_blank" rel="noopener noreferrer nofollow">
             <img
               src="https://techstack-generator.vercel.app/ts-icon.svg"
-              alt="JavaScript"
+              alt="TypeScript"
               width="65"
               height="65"/>
           </a>
