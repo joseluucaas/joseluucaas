@@ -206,33 +206,7 @@
 <div dir="auto">
   <table tabindex="0">
     <tbody>
-      <tr>
-        <td align="center" width="96">
-          <a
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-            <img
-              src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-              width="48"
-              height="48"
-              alt="Git"
-              style="max-width: 100%; height: auto; max-height: 48px;"/>
-          </a>
-          <br/>
-          Git 
-   <td align="center" width="96">
-          <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://techstack-generator.vercel.app/github-icon.svg"
-              alt="GitHub"
-              width="65"
-              height="65"/>
-          </a>
-          <br/>
-          GitHub
-        </td>
-          
+      <tr>          
 <td align="center" width="96">
   <a
     target="_blank"
@@ -247,6 +221,31 @@
   </a>
   <br/>
   VS Code
+  <td align="center" width="96">
+          <a target="_blank" rel="noopener noreferrer nofollow">
+            <img
+              src="https://techstack-generator.vercel.app/github-icon.svg"
+              alt="GitHub"
+              width="65"
+              height="65"/>
+          </a>
+          <br/>
+          GitHub
+        </td>
+  <td align="center" width="96">
+          <a
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+            <img
+              src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+              width="48"
+              height="48"
+              alt="Git"
+              style="max-width: 100%; height: auto; max-height: 48px;"/>
+          </a>
+          <br/>
+          Git 
       </tr>
     </tbody>
   </table>
