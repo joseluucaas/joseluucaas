@@ -51,33 +51,6 @@
           </a>
           <br/>
           JavaScript
-        </td>
-        <td align="center" width="96">
-          <a target="_blank" rel="noopener noreferrer nofollow">
-            <img
-              src="https://techstack-generator.vercel.app/github-icon.svg"
-              alt="GitHub"
-              width="65"
-              height="65"/>
-          </a>
-          <br/>
-          GitHub
-        </td>
-        <td align="center" width="96">
-          <a
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-            <img
-              src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-              width="48"
-              height="48"
-              alt="Git"
-              style="max-width: 100%; height: auto; max-height: 48px;"/>
-          </a>
-          <br/>
-          Git 
-        </td>
         <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
             <img
@@ -104,20 +77,6 @@
           <br/>
           CSS
         </td>
-<td align="center" width="96">
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://skillicons.dev/icons?i=vscode">
-    <img
-      src="https://skillicons.dev/icons?i=vscode"
-      width="48"
-      height="48"
-      alt="VS Code"
-      style="max-width: 100%; height: auto; max-height: 48px;"/>
-  </a>
-  <br/>
-  VS Code
       </tr>
     </tbody>
   </table>
