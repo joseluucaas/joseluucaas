@@ -202,16 +202,6 @@
 <hr>
 
 
-<h2> 📊 GitHub Stats </h2> 
-
-<div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joseluucaas&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluucaas&layout=compact&theme=tokyonight" />
-</div>
-
-
-<hr>
-
 <h2>GitHub analytics</h2> 
 
 <p align="center">
