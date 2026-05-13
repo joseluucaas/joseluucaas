@@ -72,6 +72,6 @@
 </blockquote>
 
 
-<p align="center">
+<p>
   <img src="img/Ele me amou.jpeg" alt="Matthew Macri" width="280" />
 </p>
