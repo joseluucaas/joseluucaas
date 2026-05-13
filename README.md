@@ -44,6 +44,18 @@
         <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
             <img
+              src="https://techstack-generator.vercel.app/ts-icon.svg"
+              alt="JavaScript"
+              width="65"
+              height="65"/>
+          </a>
+          <br/>
+          TypeScript
+          </td>
+                </td>
+        <td align="center" width="96">
+          <a target="_blank" rel="noopener noreferrer nofollow">
+            <img
               src="https://techstack-generator.vercel.app/js-icon.svg"
               alt="JavaScript"
               width="65"
@@ -51,6 +63,7 @@
           </a>
           <br/>
           JavaScript
+          </td>
         <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
             <img
@@ -63,21 +76,6 @@
           HTML5
         </td>
         <td align="center" width="96">
-          <a
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            href="https://skillicons.dev/icons?i=css">
-            <img
-              src="https://skillicons.dev/icons?i=css"
-              width="48"
-              height="48"
-              alt="CSS"
-              style="max-width: 100%; height: auto; max-height: 48px;"/>
-          </a>
-          <br/>
-          CSS
-        </td>
-         <td align="center" width="96">
           <a
             target="_blank"
             rel="noopener noreferrer nofollow"
