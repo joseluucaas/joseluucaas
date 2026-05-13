@@ -27,7 +27,7 @@ Hello! My name is José Lucas. I am originally from Acre, Brazil, and I currentl
 align="left"
 alt="HTML"
 title="HTML"
-width="80px"
+width="60px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />  
@@ -36,7 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 align="left"
 alt="CSS"
 title="CSS"
-width="80px"
+width="60px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
