@@ -151,22 +151,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-o
 
 <br> 
 
-<img 
-align="left"
-alt="Git"
-title="Git"
-width="80px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-align="left"
-alt="GitHub"
-title="GitHub"
-width="80px"
-style="padding-right: 10px;"
-src="https://techstack-generator.vercel.app/github-icon.svg"/>
+  <a
+  target="_blank"
+  rel="noopener noreferrer nofollow"
+  href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+  <img
+  src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+  width="48"
+  height="48"
+  alt="Git"
+  style="max-width: 100%; height: auto; max-height: 48px;"/>
+  </a>
+  <br/>
+  Git 
 
 <br>
 
