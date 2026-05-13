@@ -22,7 +22,6 @@
 
 <h3> Front-end </h3>
 
-</div>
 <div dir="auto">
   <table align="center" tabindex="0">
     <tbody>
