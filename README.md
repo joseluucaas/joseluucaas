@@ -212,6 +212,11 @@
 
 <hr>
 
+<h2>GitHub analytics</h2> 
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=joseluucaas&theme=dark&hide_border=true&background=0D1117&ring=C7D0C4&fire=AAB3A2&currStreakLabel=8C948C&sideLabels=8C948C&dates=5E5F5B&currStreakNum=C7D0C4&sideNums=C7D0C4" />
+</p>
 
 <h2> Matthew 19:26 </h2>
 
