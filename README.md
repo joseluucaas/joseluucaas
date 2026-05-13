@@ -18,7 +18,7 @@
 
 <hr>
 
-<h2>🛠️ Languages and Technologies</h2> 
+<h2> 🛠️ Languages and Technologies </h2> 
 
 <h3> Front-end </h3>
 
@@ -173,7 +173,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-o
 
 <br>
 
-### DevOps & Tools 
+<h3> DevOps & Tools </h3> 
 
 <br> 
 
@@ -196,7 +196,7 @@ src="https://techstack-generator.vercel.app/github-icon.svg"/>
 
 <br>
 
----
+<hr>
 
 </div>
 
@@ -211,7 +211,7 @@ src="https://techstack-generator.vercel.app/github-icon.svg"/>
 
 <br>
 
----
+<hr>
 
 <h2> Matthew 19:26 </h2>
 
