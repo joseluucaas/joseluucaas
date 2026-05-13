@@ -73,5 +73,5 @@
 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/US6odsnLHQxTlqTEeF/giphy.webp" alt="Matthew Macri" width="280" />
+  <img src="img/Ele me amou.jpeg" alt="Matthew Macri" width="280" />
 </p>
