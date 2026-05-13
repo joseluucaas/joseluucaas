@@ -1,7 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=32&duration=4000&pause=1200&color=FFFFFF&width=435&lines=Welcome+to+my+Profile!" alt="Typing SVG" /></a>
-</div>
-
-
 <h1>👨🏻‍💻 José Lucas</h1>
 
 <p>
