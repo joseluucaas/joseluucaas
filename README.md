@@ -1,10 +1,10 @@
-<h1 align="center">👨🏻‍💻 José Lucas</h1>
+<h1>👨🏻‍💻 José Lucas</h1>
 
-<div align="center" ><code> Full-Stack Developer </code></div>
+<code> Full-Stack Developer </code>
 
 <br>
  
-<p align="center" > Hello! My name is José Lucas. I am originally from Acre, Brazil, and I currently live in the countryside of Amazonas. I have a strong interest in the Information Technology field and I am constantly seeking to learn new programming languages, tools, and concepts to expand my knowledge and grow professionally in the IT industry. </p>
+<p  > Hello! My name is José Lucas. I am originally from Acre, Brazil, and I currently live in the countryside of Amazonas. I have a strong interest in the Information Technology field and I am constantly seeking to learn new programming languages, tools, and concepts to expand my knowledge and grow professionally in the IT industry. </p>
 
 <hr>
 
