@@ -132,13 +132,13 @@
         <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
             <img
-              src="https://techstack-generator.vercel.app/github-icon.svg"
-              alt="GitHub"
+              src=""https://techstack-generator.vercel.app/mysql-icon.svg"
+              alt="MySQL"
               width="65"
               height="65"/>
           </a>
           <br/>
-          GitHub
+         MySQL
         </td>
         <td align="center" width="96">
           <a
