@@ -218,6 +218,14 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=joseluucaas&theme=dark&hide_border=true&background=0D1117&ring=C7D0C4&fire=AAB3A2&currStreakLabel=8C948C&sideLabels=8C948C&dates=5E5F5B&currStreakNum=C7D0C4&sideNums=C7D0C4" />
 </p>
 
+<hr>
+
+<h2>Contribution activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseluucaas&theme=github-dark&hide_border=true&bg_color=0d1117&color=8C948C&line=5E5F5B&point=C7D0C4" />
+</p>
+
 <h2> Matthew 19:26 </h2>
 
 <blockquote>
