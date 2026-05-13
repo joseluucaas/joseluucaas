@@ -6,7 +6,7 @@
 
 <hr>
 
-## 🌐 Where to find me
+<h2> 🌐 Where to find me </h2> 
 
 <div>
 <a href="https://github.com/joseluucaas">
@@ -21,8 +21,6 @@
 <h2> 🛠️ Languages and Technologies </h2> 
 
 <h3> Front-end </h3>
-
-  </h1>
 
   <a
     id="user-content--my-favorite-tools-and-technologies"
@@ -150,7 +148,7 @@
   </p>
 
 
-### Back-end
+<h3> Back-end </h3>
 
  <br> 
  
@@ -200,7 +198,7 @@ src="https://techstack-generator.vercel.app/github-icon.svg"/>
 
 </div>
 
-## 📊 GitHub Stats
+<h2> 📊 GitHub Stats </h2> 
 
 <div align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=joseluucaas&show_icons=true&theme=tokyonight&count_private=true" />
