@@ -45,7 +45,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 align="left"
 alt="JavaScript"
 title="JavaScript"
-width="80px"
+width="100px"
 style="padding-right: 10px;"
 src="https://techstack-generator.vercel.app/js-icon.svg"/>
 
@@ -53,10 +53,9 @@ src="https://techstack-generator.vercel.app/js-icon.svg"/>
 align="left"
 alt="TypeScript"
 title="TypeScript"
-width="80px"
+width="100px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/> 
+src="https://techstack-generator.vercel.app/ts-icon.svg"/> 
 
 
 <img 
@@ -65,8 +64,7 @@ alt="React"
 title="React"
 width="80px"
 style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
+src="https://techstack-generator.vercel.app/react-icon.svg"/>
 
           
 <br>
@@ -82,8 +80,7 @@ alt="MySQL"
 title="MySQL"
 width="80px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon"/>
 
 <img
 align="left"
@@ -108,6 +105,14 @@ width="80px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+align="left"
+alt="GitHub"
+title="GitHub"
+width="80px"
+style="padding-right: 10px;"
+src="https://techstack-generator.vercel.app/github-icon.svg"/>
 
 <br>
 
