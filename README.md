@@ -126,46 +126,159 @@
 
 <h3> Back-end </h3>
 
- <br> 
- 
-<img 
-align="left"
-alt="MySQL"
-title="MySQL"
-width="80px"
-style="padding-right: 10px;"
-src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon"/>
 
-<img
-align="left"
-alt="MongoDB"
-title="MongoDB"
-width="80px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/> 
+<div dir="auto">
+  <table tabindex="0">
+    <tbody>
+      <tr>
+        <td align="center" width="96">
+          <a
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            href="https://techstack-generator.vercel.app/react-icon.svg">
+            <img
+              src="https://techstack-generator.vercel.app/react-icon.svg"
+              alt="icon"
+              width="65"
+              height="65"
+              style="max-width: 100%; height: auto; max-height: 65px;"/>
+          </a>
+          <br/>
+          React
+        </td>
+        <td align="center" width="96">
+          <a target="_blank" rel="noopener noreferrer nofollow">
+            <img
+              src="https://techstack-generator.vercel.app/js-icon.svg"
+              alt="JavaScript"
+              width="65"
+              height="65"/>
+          </a>
+          <br/>
+          JavaScript
+        </td>
+        <td align="center" width="96">
+          <a target="_blank" rel="noopener noreferrer nofollow">
+            <img
+              src="https://techstack-generator.vercel.app/github-icon.svg"
+              alt="GitHub"
+              width="65"
+              height="65"/>
+          </a>
+          <br/>
+          GitHub
+        </td>
+        <td align="center" width="96">
+          <a
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+            <img
+              src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+              width="48"
+              height="48"
+              alt="Git"
+              style="max-width: 100%; height: auto; max-height: 48px;"/>
+          </a>
+          <br/>
+          Git 
+        </td>
+        <td align="center" width="96">
+          <a target="_blank" rel="noopener noreferrer nofollow">
+            <img
+              src="https://skillicons.dev/icons?i=html"
+              alt="HTML5"
+              width="48"
+              height="48"/>
+          </a>
+          <br/>
+          HTML5
+        </td>
+        <td align="center" width="96">
+          <a
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            href="https://skillicons.dev/icons?i=css">
+            <img
+              src="https://skillicons.dev/icons?i=css"
+              width="48"
+              height="48"
+              alt="CSS"
+              style="max-width: 100%; height: auto; max-height: 48px;"/>
+          </a>
+          <br/>
+          CSS
+        </td>
+<td align="center" width="96">
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://skillicons.dev/icons?i=vscode">
+    <img
+      src="https://skillicons.dev/icons?i=vscode"
+      width="48"
+      height="48"
+      alt="VS Code"
+      style="max-width: 100%; height: auto; max-height: 48px;"/>
+  </a>
+  <br/>
+  VS Code
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<br>
 
 <h3> DevOps & Tools </h3> 
 
-<br> 
-
+<div dir="auto">
+  <table tabindex="0">
+    <tbody>
+      <tr>
+        <td align="center" width="96">
+          <a
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+            <img
+              src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+              width="48"
+              height="48"
+              alt="Git"
+              style="max-width: 100%; height: auto; max-height: 48px;"/>
+          </a>
+          <br/>
+          Git 
+   <td align="center" width="96">
+          <a target="_blank" rel="noopener noreferrer nofollow">
+            <img
+              src="https://techstack-generator.vercel.app/github-icon.svg"
+              alt="GitHub"
+              width="65"
+              height="65"/>
+          </a>
+          <br/>
+          GitHub
+        </td>
+          
+<td align="center" width="96">
   <a
-  target="_blank"
-  rel="noopener noreferrer nofollow"
-  href="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-  <img
-  src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-  width="48"
-  height="48"
-  alt="Git"
-  style="max-width: 100%; height: auto; max-height: 48px;"/>
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://skillicons.dev/icons?i=vscode">
+    <img
+      src="https://skillicons.dev/icons?i=vscode"
+      width="48"
+      height="48"
+      alt="VS Code"
+      style="max-width: 100%; height: auto; max-height: 48px;"/>
   </a>
   <br/>
-  Git 
-
-<br>
+  VS Code
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 <hr>
@@ -179,8 +292,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-o
 </div>
 
 
-
 <hr>
+
 
 <h2> Matthew 19:26 </h2>
 
