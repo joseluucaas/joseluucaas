@@ -67,17 +67,6 @@
           React
         </td>
         <td align="center" width="96">
-          <a href="#macropower-tech">
-            <img
-              src="https://techstack-generator.vercel.app/python-icon.svg"
-              alt="Python"
-              width="65"
-              height="65"/>
-          </a>
-          <br/>
-          Python
-        </td>
-        <td align="center" width="96">
           <a target="_blank" rel="noopener noreferrer nofollow">
             <img
               src="https://techstack-generator.vercel.app/js-icon.svg"
