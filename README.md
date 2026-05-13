@@ -123,7 +123,6 @@
     </tbody>
   </table>
 </div>
-  </p>
 
 
 <h3> Back-end </h3>
