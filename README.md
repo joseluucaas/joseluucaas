@@ -27,7 +27,7 @@ Hello! My name is José Lucas. I am originally from Acre, Brazil, and I currentl
 align="left"
 alt="HTML"
 title="HTML"
-width="70px"
+width="80px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />  
@@ -36,7 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 align="left"
 alt="CSS"
 title="CSS"
-width="70px"
+width="80px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -53,7 +53,7 @@ src="https://techstack-generator.vercel.app/js-icon.svg"/>
 align="left"
 alt="TypeScript"
 title="TypeScript"
-width="70px"
+width="80px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 /> 
@@ -63,21 +63,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typesc
 align="left"
 alt="React"
 title="React"
-width="70px"
+width="80px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
+
           
 <br>
 
+
 ### Back-end
 
+ <br> 
  
 <img 
 align="left"
 alt="MySQL"
 title="MySQL"
-width="30px"
+width="80px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -86,7 +89,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 align="left"
 alt="MongoDB"
 title="MongoDB"
-width="30px"
+width="80px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 /> 
@@ -100,7 +103,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-o
 align="left"
 alt="Git"
 title="Git"
-width="30px"
+width="80px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
