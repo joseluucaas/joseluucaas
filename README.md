@@ -73,5 +73,5 @@
 
 
 <p>
-  <img src="img/Ele me amou.jpeg" alt="Matthew Macri" width="280" />
+  <img src="img/Ele me amou.jpeg" alt="Matthew Macri" width="500" />
 </p>
