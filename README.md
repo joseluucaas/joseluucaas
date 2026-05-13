@@ -226,3 +226,8 @@
     "With man this is impossible, but with God all things are possible."
   </em>
 </blockquote>
+
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/US6odsnLHQxTlqTEeF/giphy.webp" alt="Matthew Macri" width="280" />
+</p>
