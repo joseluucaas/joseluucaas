@@ -207,8 +207,6 @@ src="https://techstack-generator.vercel.app/github-icon.svg"/>
 
 
 
-<br>
-
 <hr>
 
 <h2> Matthew 19:26 </h2>
