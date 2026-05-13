@@ -213,6 +213,10 @@ src="https://techstack-generator.vercel.app/github-icon.svg"/>
 
 ---
 
-## Matthew 19:26
+<h2> Matthew 19:26 </h2>
 
-> _"With man this is impossible, but with God all things are possible.."_
+<blockquote>
+  <em>
+    "With man this is impossible, but with God all things are possible."
+  </em>
+</blockquote>
