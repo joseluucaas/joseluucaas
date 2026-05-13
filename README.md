@@ -1,7 +1,7 @@
 <h1>👨🏻‍💻 José Lucas</h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=8C948C&width=700&lines=Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8C948C&width=700&lines=Full-Stack+Developer" />
 </p>
 
 <p  > Hello! My name is José Lucas. I am originally from Acre, Brazil, and I currently live in the countryside of Amazonas. I have a strong interest in the Information Technology field and I am constantly seeking to learn new programming languages, tools, and concepts to expand my knowledge and grow professionally in the IT industry. </p>
