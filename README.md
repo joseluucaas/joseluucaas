@@ -77,6 +77,21 @@
           <br/>
           CSS
         </td>
+         <td align="center" width="96">
+          <a
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            href="https://skillicons.dev/icons?i=css">
+            <img
+              src="https://skillicons.dev/icons?i=css"
+              width="48"
+              height="48"
+              alt="CSS"
+              style="max-width: 100%; height: auto; max-height: 48px;"/>
+          </a>
+          <br/>
+          CSS
+        </td>
       </tr>
     </tbody>
   </table>
