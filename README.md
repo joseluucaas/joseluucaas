@@ -1,8 +1,8 @@
-# 👨🏻‍💻 José Lucas  
+<h1>👨🏻‍💻 José Lucas  </h1>
 
 **`Full-Stack Developer`**
 
-Hello! My name is José Lucas. I am originally from Acre, Brazil, and I currently live in the countryside of Amazonas. I have a strong interest in the Information Technology field and I am constantly seeking to learn new programming languages, tools, and concepts to expand my knowledge and grow professionally in the IT industry.
+<p> Hello! My name is José Lucas. I am originally from Acre, Brazil, and I currently live in the countryside of Amazonas. I have a strong interest in the Information Technology field and I am constantly seeking to learn new programming languages, tools, and concepts to expand my knowledge and grow professionally in the IT industry. </p>
 
 ---
 ## 🌐 Where to find me
