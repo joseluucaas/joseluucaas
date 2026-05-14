@@ -63,7 +63,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseluucaas&theme=github-dark&hide_border=true&bg_color=0d1117&color=8C948C&line=5E5F5B&point=C7D0C4" />
 </p>
 
-<h2> Matthew 19:26 </h2>
+<h2> Joao 14:6 </h2>
 
 <blockquote>
   <em>
