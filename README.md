@@ -67,7 +67,7 @@
 
 <blockquote>
   <em>
-    "With man this is impossible, but with God all things are possible."
+    “Jesus said to him: I am the way, the truth, and the life. No one comes to the Father except through me.”
   </em>
 </blockquote>
 
