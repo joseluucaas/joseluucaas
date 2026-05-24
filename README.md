@@ -45,7 +45,7 @@
 [![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
 [![DISCORD.JS](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white)]()
-
+[![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 <hr>
 
 
