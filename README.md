@@ -36,7 +36,7 @@
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![EXPRESS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![NEST.JS](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 <h3> DevOps & Tools </h3> 
