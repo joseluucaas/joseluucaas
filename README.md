@@ -35,7 +35,7 @@
 [![NODE.JS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![EXPRESS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![NEST.JS](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white)]()
+[![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
