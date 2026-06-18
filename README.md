@@ -28,7 +28,7 @@
 [![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 
 <h3> Back-end </h3>
