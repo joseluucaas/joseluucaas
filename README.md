@@ -42,7 +42,7 @@
 [![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)]()
   
-<h3> DevOps & Cloud </h3> 
+<h3> Cloud & DevOps </h3> 
 
 [![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
