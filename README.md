@@ -48,7 +48,7 @@
 [![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)]()
-
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 <hr>
 
 
